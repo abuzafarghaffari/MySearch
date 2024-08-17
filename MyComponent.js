@@ -1,3 +1,7 @@
+Important
+// When you use the indexOf method to search for an empty string ("") in the string "assss", it will return 0.
+//  This is because the empty string is considered to be found at the start of any string.
+
 import {useState, useEffect} from "react";
 import MyCard from "./MyCard";
 
